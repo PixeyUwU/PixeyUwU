@@ -1,4 +1,4 @@
-[Axdroid](https://cdn.discordapp.com/attachments/834845271367614516/879358366755983430/Screenshot_2021-08-23_2.27.38_PM.png)
+![Axdroid](https://cdn.discordapp.com/attachments/834845271367614516/879358366755983430/Screenshot_2021-08-23_2.27.38_PM.png)
 
 
 
