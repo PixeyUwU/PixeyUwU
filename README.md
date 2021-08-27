@@ -8,17 +8,25 @@ I am 13 years and i live in the netherlands
 
 
 What i am learning : 
+
 Python
+
 Typescript
 
 
 What i know :
+
 HTML
+
 Css
+
 JS
 
 
+
 What i am part of
+
+
 BBS as a js dev and html dev
 
 
