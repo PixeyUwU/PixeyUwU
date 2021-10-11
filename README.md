@@ -16,9 +16,7 @@ Typescript
 
 What i know :
 
-HTML
-
-Css
+PY
 
 JS
 
@@ -27,7 +25,7 @@ JS
 What i am part of
 
 
-BBS as a js dev and html dev
+BBS as a js dev and web dev
 
 
 
